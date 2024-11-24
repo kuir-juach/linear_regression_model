@@ -1,5 +1,7 @@
 # linear_regression_model
-Here is the link to my Video: 
+Here is the link to my Video:https://youtu.be/N0GPuk9-g-c
+
+
 And below is the Screenshort of the Flutter
 ![Screenshot 2024-11-24 224624](https://github.com/user-attachments/assets/6e632731-2068-4614-aee3-ca0d37f2270e)
 
@@ -47,5 +49,6 @@ FastAPI for the backend API.
 Flutter for building the mobile application.
 Python libraries: pandas, scikit-learn, and joblib.
 API API ENDPOINT The API is hosted publicly and can be accessed to get predictions by providing the necessary input values. Public API Endpoint POST https://linear-regression-api-sj2a.onrender.com live on render
+The backend provides an API endpoint designed to predict university grades based on assessment scores. This endpoint accepts two parameters: IA1 (marks from the first internal assessment) and IA2 (marks from the second internal assessment). By sending a POST request with these parameters in JSON format, the API returns the predicted grade. For example, sending the following request body: {"IA1": 85, "IA2": 90} would result in the response: {"predicted_grade": "A"}. This functionality ensures seamless communication between the backend and frontend, enabling real-time grade predictions for students.
 
 
