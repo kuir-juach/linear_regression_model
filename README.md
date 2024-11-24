@@ -1,27 +1,7 @@
 # linear_regression_model
 Here is the link to my Video: 
 And below is the Screenshort of the Flutter
-
-
-
-
-
-![Screenshot 2024-11-24 224624](https://github.com/user-attachments/assets/119c71aa-3ffd-486b-977f-43bdea4d9928)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![Screenshot 2024-11-24 224624](https://github.com/user-attachments/assets/6e632731-2068-4614-aee3-ca0d37f2270e)
 
 #Project Overview
 This project aims to develop a system that predicts university grades based on internal assessment scores. By leveraging a linear regression model, the system analyzes a student's performance in two internal assessments and estimates their final grade (e.g., A, B+, B, or U). The prediction model serves as a tool for educators to identify students who may need academic intervention and provides insights for improving teaching strategies. Additionally, a Flutter application has been created to offer a user-friendly platform for real-time grade predictions, making the system accessible and practical for use in academic institutions.
@@ -66,5 +46,6 @@ Python 3.x and pip.
 FastAPI for the backend API.
 Flutter for building the mobile application.
 Python libraries: pandas, scikit-learn, and joblib.
+API API ENDPOINT The API is hosted publicly and can be accessed to get predictions by providing the necessary input values. Public API Endpoint POST https://linear-regression-api-sj2a.onrender.com live on render
 
 
